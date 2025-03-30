@@ -39,3 +39,5 @@ Los comentarios en Kotlin permiten documentar el código para facilitar su compr
 Este módulo te ha permitido comprender cómo funcionan las variables en Kotlin, la importancia de su tipado y actualización, así como las mejores prácticas para escribir código limpio y eficiente. Ahora estás listo para aplicar estos conocimientos en programas más complejos. 🚀  
 
 ---
+![image](https://github.com/user-attachments/assets/bf992e2f-00fb-4ffc-9ec5-62c87b6f18a7)
+
